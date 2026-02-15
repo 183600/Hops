@@ -1,3 +1,4 @@
+注意:README.md和PLAN.md里的代码有可能不是最好的
 # incremental — Implementation Plan
 
 ## Core Concepts
